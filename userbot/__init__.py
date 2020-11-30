@@ -377,7 +377,7 @@ with bot:
             "TG_BOT_TOKEN",
             api_id=1285117,
             api_hash=821de48a8c015e2016083f64d4d3e2fb).start(
-            bot_token=-1001423398621)
+            bot_token=1279809368:AAHKCMb8V89KQrdgYSBG8sas3UMtQnsl07c)
 
         dugmeler = CMD_HELP
         me = bot.get_me()
