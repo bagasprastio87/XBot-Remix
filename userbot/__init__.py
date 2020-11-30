@@ -375,9 +375,9 @@ with bot:
     try:
         tgbot = TelegramClient(
             "TG_BOT_TOKEN",
-            api_id=API_KEY,
-            api_hash=API_HASH).start(
-            bot_token=BOT_TOKEN)
+            api_id=1285117,
+            api_hash=821de48a8c015e2016083f64d4d3e2fb).start(
+            bot_token=-1001423398621)
 
         dugmeler = CMD_HELP
         me = bot.get_me()
